@@ -1,0 +1,13 @@
+Container stores 3 films:
+Game: publication year = 1900 name = MaxPayne director = GabrielleFreeman, Division result = 237.5
+Cartoon: publication year = 1991 type = PUPPET name = SpongeBob, Division result = 221.22222222222223
+Documentary: publication year = 2003 length = 120 name = LifeOfAlemdarKaramanov, Division result = 91.04545454545455
+
+Division result average = 183.25589225589226
+
+Container stores 2 films:
+Game: publication year = 1900 name = MaxPayne director = GabrielleFreeman, Division result = 237.5
+Cartoon: publication year = 1991 type = PUPPET name = SpongeBob, Division result = 221.22222222222223
+
+Division result average = 229.36111111111111
+

@@ -1,0 +1,20 @@
+Container stores 9 films:
+Documentary: publication year = 1930 length = 600 name = WilliamShakespeare, Division result = 107.22222222222223
+Documentary: publication year = 1991 length = 123 name = GreekMythology, Division result = 142.21428571428572
+Documentary: publication year = 2003 length = 120 name = SledstviyeVeli, Division result = 143.07142857142858
+Cartoon: publication year = 1999 type = PUPPET name = NuPogodi, Division result = 249.875
+Cartoon: publication year = 1945 type = DRAWN name = EzhikVTumane, Division result = 162.08333333333334
+Game: publication year = 1999 name = Fallout director = AlexBrown, Division result = 285.57142857142856
+Documentary: publication year = 1987 length = 200 name = AdaLovelace, Division result = 180.63636363636363
+Cartoon: publication year = 1956 type = PLASTICINE name = Shrek, Division result = 391.2
+Game: publication year = 1899 name = AssassinsCreed director = JackGreen, Division result = 135.64285714285714
+
+Division result average = 199.72410213243543
+
+Container stores 3 films:
+Cartoon: publication year = 1999 type = PUPPET name = NuPogodi, Division result = 249.875
+Game: publication year = 1999 name = Fallout director = AlexBrown, Division result = 285.57142857142856
+Cartoon: publication year = 1956 type = PLASTICINE name = Shrek, Division result = 391.2
+
+Division result average = 308.8821428571428
+

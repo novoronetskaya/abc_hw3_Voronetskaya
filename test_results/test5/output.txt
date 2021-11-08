@@ -1,0 +1,17 @@
+Container stores 8 films:
+Game: publication year = 1900 name = Fifa director = MichaelBrown, Division result = 475.0
+Cartoon: publication year = 1991 type = PUPPET name = AvatarKorra, Division result = 181.0
+Documentary: publication year = 2003 length = 350 name = HistoryOfAComputer, Division result = 111.27777777777777
+Game: publication year = 1988 name = BattleField director = AndySpielberg, Division result = 180.72727272727272
+Cartoon: publication year = 1967 type = PUPPET name = FoxAndACrow, Division result = 178.8181818181818
+Documentary: publication year = 2010 length = 400 name = PeterTheGreat, Division result = 154.6153846153846
+Game: publication year = 1900 name = MortalCombat director = RalphEinstein, Division result = 158.33333333333334
+Cartoon: publication year = 1990 type = PUPPET name = TreasurePlanet, Division result = 142.14285714285714
+
+Division result average = 197.7393509268509
+
+Container stores 1 films:
+Game: publication year = 1900 name = Fifa director = MichaelBrown, Division result = 475.0
+
+Division result average = 475.0
+

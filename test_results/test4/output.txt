@@ -1,0 +1,22 @@
+Container stores 10 films:
+Cartoon: publication year = 1991 type = PUPPET name = BeautyAndTheBeast, Division result = 117.11764705882354
+Cartoon: publication year = 1981 type = DRAWN name = Shrek2, Division result = 330.1666666666667
+Cartoon: publication year = 1921 type = PLASTICINE name = DespicableMe, Division result = 160.08333333333334
+Cartoon: publication year = 1931 type = PUPPET name = PeppaBig, Division result = 241.375
+Cartoon: publication year = 1941 type = PLASTICINE name = Madagascar, Division result = 194.1
+Cartoon: publication year = 1951 type = PLASTICINE name = Ratatouille, Division result = 177.36363636363637
+Cartoon: publication year = 1961 type = PLASTICINE name = TheLionKing, Division result = 178.27272727272728
+Cartoon: publication year = 1911 type = DRAWN name = ToyStory, Division result = 238.875
+Cartoon: publication year = 1901 type = PUPPET name = Trolls, Division result = 316.8333333333333
+Documentary: publication year = 1997 length = 90 name = HistoryOfCrimea, Division result = 133.13333333333333
+
+Division result average = 208.73206773618534
+
+Container stores 4 films:
+Cartoon: publication year = 1981 type = DRAWN name = Shrek2, Division result = 330.1666666666667
+Cartoon: publication year = 1931 type = PUPPET name = PeppaBig, Division result = 241.375
+Cartoon: publication year = 1911 type = DRAWN name = ToyStory, Division result = 238.875
+Cartoon: publication year = 1901 type = PUPPET name = Trolls, Division result = 316.8333333333333
+
+Division result average = 281.8125
+

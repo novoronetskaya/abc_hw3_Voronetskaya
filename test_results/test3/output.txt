@@ -1,0 +1,34 @@
+Container stores 19 films:
+Documentary: publication year = 1940 length = 230 name = JapaneseSamurai, Division result = 129.33333333333334
+Cartoon: publication year = 2003 type = DRAWN name = TheFixies, Division result = 222.55555555555554
+Cartoon: publication year = 1999 type = PUPPET name = NuPogodi, Division result = 249.875
+Cartoon: publication year = 1945 type = DRAWN name = Prostocvashino, Division result = 138.92857142857142
+Cartoon: publication year = 1999 type = PLASTICINE name = Maugli, Division result = 333.1666666666667
+Documentary: publication year = 1987 length = 200 name = RussianRevolution, Division result = 116.88235294117646
+Cartoon: publication year = 1956 type = PLASTICINE name = Aladdin, Division result = 279.42857142857144
+Game: publication year = 1899 name = Portal director = LindseyFox, Division result = 316.5
+Documentary: publication year = 1990 length = 123 name = WorldWarSecond, Division result = 142.14285714285714
+Documentary: publication year = 1940 length = 230 name = FrenchKings, Division result = 176.36363636363637
+Documentary: publication year = 1943 length = 400 name = ChineseEmperors, Division result = 129.53333333333333
+Cartoon: publication year = 2003 type = DRAWN name = Avatar, Division result = 333.8333333333333
+Cartoon: publication year = 1999 type = PUPPET name = Monsters, Division result = 249.875
+Cartoon: publication year = 1945 type = DRAWN name = KungFuPanda, Division result = 176.8181818181818
+Cartoon: publication year = 1999 type = PLASTICINE name = HotelTransylvania, Division result = 117.58823529411765
+Documentary: publication year = 1987 length = 200 name = Kovalevskaya, Division result = 165.58333333333334
+Cartoon: publication year = 1956 type = PLASTICINE name = FrozenHeart, Division result = 177.8181818181818
+Game: publication year = 1899 name = FalloutNewVegas director = RichardNewman, Division result = 126.6
+Documentary: publication year = 1990 length = 123 name = BiographyOfSergeiRakhmaninov, Division result = 71.07142857142857
+
+Division result average = 192.31039854538307
+
+Container stores 7 films:
+Cartoon: publication year = 2003 type = DRAWN name = TheFixies, Division result = 222.55555555555554
+Cartoon: publication year = 1999 type = PUPPET name = NuPogodi, Division result = 249.875
+Cartoon: publication year = 1999 type = PLASTICINE name = Maugli, Division result = 333.1666666666667
+Cartoon: publication year = 1956 type = PLASTICINE name = Aladdin, Division result = 279.42857142857144
+Game: publication year = 1899 name = Portal director = LindseyFox, Division result = 316.5
+Cartoon: publication year = 2003 type = DRAWN name = Avatar, Division result = 333.8333333333333
+Cartoon: publication year = 1999 type = PUPPET name = Monsters, Division result = 249.875
+
+Division result average = 283.6048752834467
+
